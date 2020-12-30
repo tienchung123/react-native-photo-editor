@@ -12,8 +12,7 @@
 
 
     ReactNative: Native Photo Editor (Android/iOS)
-
-If this project has helped you out, please support us with a star 🌟
+    FORK
 </h1>
 This library is a React Native bridge around native photo editor libraries. It allows you to edit any photo by providing below set of features:
 
